@@ -9,7 +9,7 @@ The Soham Village College Computing department are currently piloting the use of
 -	Contribute to the wider software development community.
 
 
-*However*, the Github platform is purposefully open and therefore much of the pupil’s activity can be viewed by other public users. Also all pupil accounts would be associated with the College’s account, it is therefore important that pupils and teachers follow some simple rules when using the Github platform:
+**However**, the Github platform is purposefully open and therefore much of the pupil’s activity can be viewed by other public users. Also all pupil accounts would be associated with the College’s account, it is therefore important that pupils and teachers follow some simple rules when using the Github platform:
 ####All Users
 Both pupils and teachers will use the Github platform in a sensible and professional manner. This includes:
 -	Using a school monitored email account for school work based on Github.com.
